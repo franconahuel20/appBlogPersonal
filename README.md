@@ -3,7 +3,7 @@
 Stack: Apache, PHP 8.1/8.2, MariaDB y Bootstrap 5.
 
 URL esperada en NAP:
-https://nap.frt.utn.edu.ar/36339372/appBlogPersonal/
+https://nap.frt.utn.edu.ar/36339372/
 
 Contenedores:
 - Blog Apache/PHP: 147 - 36339372A - 172.16.90.147 - MAC BC:24:11:D4:5C:5F
